@@ -2,11 +2,14 @@
 
 A place to show you know how to commit and have git configured at home and also in the lab.
 
+
+## Note on Commits
+Make sure all of your commit messsage reflect what step you are doing. "Added stuff" is not sufficient. 
+
 # Directions
 The goal is to learn the edit/add/commit/push workflow and realize it isn't that bad after some practice.
 
-## Commits
-Make sure all of your commit messsage reflect what step you are doing. "Added stuff" is not sufficient. 
+
 
 1. Clone the repo.
 2. Edit the "story.txt" file in the lab. Push those changes. Do this 3 times so there are 3 commits in the lab. You can fill in words and add new lines. 
