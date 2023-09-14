@@ -12,3 +12,4 @@ Make sure all of your commit messsage reflect what step you are doing.
 4. Make an addition to the story.txt file on the git website. There should be this one commit from the web interface, but no more.
 5. Pull those changes onto your personal device.
 6. Make more changes on your personal device and push them to github. Do this 2 times so there are 2 more commits (6 total commits you made)
+7. All of the "madlibs" style placeholders should be replaced when you are done.
