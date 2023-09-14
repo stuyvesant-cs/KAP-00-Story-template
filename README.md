@@ -4,10 +4,12 @@ A place to show you know how to commit and have git configured at home and also 
 
 # Directions
 The goal is to learn the edit/add/commit/push workflow and realize it isn't that bad after some practice.
-Make sure all of your commit messsage reflect what step you are doing.
+
+## Commits
+Make sure all of your commit messsage reflect what step you are doing. "Added stuff" is not sufficient. 
 
 1. Clone the repo.
-2. Edit the "story.txt" file in the lab. Push those changes. Do this 3 times so there are 3 commits in the lab. You can fill in words and add new lines.
+2. Edit the "story.txt" file in the lab. Push those changes. Do this 3 times so there are 3 commits in the lab. You can fill in words and add new lines. 
 3. Now test your java fu, write a hello world program. Name the file Hello.java, create a class called Hello, and write a main method that prints "Hello World, XXX" to the terminal, where XXX is a fun fact about yourself (that is not longer than 1 line).
 4. Complete steps 5-7 at home on your personal device.
 5. On your personal device clone the repo.
