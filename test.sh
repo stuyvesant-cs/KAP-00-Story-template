@@ -5,7 +5,7 @@
 #
 if javac Hello.java ; then
   echo "This should print Hello World and a fun fact:"
-	java Test
+	java Hello
 else
 	echo "🛑 Error: Cannot compile. Lab00 has a final component that is found in the last step."
 	exit 1
