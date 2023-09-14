@@ -7,10 +7,11 @@ The goal is to learn the edit/add/commit/push workflow and realize it isn't that
 Make sure all of your commit messsage reflect what step you are doing.
 
 1. Clone the repo.
-2. Edit the "story.txt" file in the lab. Push those changes. Do this 3 times so there are 3 commits in the lab. You can fill in words and add new lines. 
-3. On your personal device clone the repo.
-4. Make an addition to the story.txt file on the git website. There should be this one commit from the web interface, but no more.
-5. Pull those changes onto your personal device.
-6. Make more changes on your personal device and push them to github. Do this 2 times so there are 2 more commits (6 total commits you made)
-7. All of the "madlibs" style placeholders should be replaced when you are done.
-8. Now just to test your java, write a hello world program. Name the file Hello.java, create a class called Hello, and write a main method that prints "Hello World, XXX" to the terminal, where XXX is a fun fact about yourself (that is not longer than 1 line).
+2. Edit the "story.txt" file in the lab. Push those changes. Do this 3 times so there are 3 commits in the lab. You can fill in words and add new lines.
+3. Now test your java fu, write a hello world program. Name the file Hello.java, create a class called Hello, and write a main method that prints "Hello World, XXX" to the terminal, where XXX is a fun fact about yourself (that is not longer than 1 line).
+4. Complete steps 5-7 at home on your personal device.
+5. On your personal device clone the repo.
+6. Make an addition to the story.txt file on the git website. There should be this one commit from the web interface, but no more.
+7. Pull those changes onto your personal device.
+8. Make more changes on your personal device and push them to github. Do this 2 times so there are 2 more commits (6 total commits you made)
+9. All of the "madlibs" style placeholders should be replaced when you are done.
