@@ -13,7 +13,7 @@ The goal is to learn the edit/add/commit/push workflow and realize it isn't that
 
 1. Clone the repo.
 2. Edit the "story.txt" file in the lab. Push those changes. Do this 3 times so there are 3 commits in the lab. You can fill in words and add new lines. 
-3. Now test your java fu, write a hello world program. Name the file Hello.java, create a class called Hello, and write a main method that prints "Hello World, XXX" to the terminal, where XXX is a fun fact about yourself (that is not longer than 1 line).
+3. Now test your java fu, write a hello world program from scratch; do not copy/paste it. Name the file Hello.java, create a class called Hello, and write a main method that prints "Hello World, XXX" to the terminal, where XXX is a fun fact about yourself (that is not longer than 1 line).
 4. Complete steps 5-12 at home on your personal device.
 5. On your personal device clone the repo.
 6. Make an addition to the story.txt file on the git website. There should be this one commit from the web interface, but no more.
